@@ -1,0 +1,16 @@
+{
+  "name": "node-poject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hihi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "first-cli":"./first-cli.js",
+    "second-cli": "./second-cli.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
